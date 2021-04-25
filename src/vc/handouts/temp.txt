@@ -1,0 +1,6 @@
+wget https://www.ics.uci.edu/~majumder/VC/handouts/2019-Practice-For-Final-Key.pdf
+wget https://www.ics.uci.edu/~majumder/VC/handouts/2019-Practice-For-Final.pdf
+wget https://www.ics.uci.edu/~majumder/VC/handouts/schedule-2018-P.pdf
+wget https://www.ics.uci.edu/~majumder/VC/handouts/schedule-2018.pdf
+wget https://www.ics.uci.edu/~majumder/VC/handouts/schedule-2019.pdf
+wget https://www.ics.uci.edu/~majumder/VC/handouts/schedule-2020.pdf

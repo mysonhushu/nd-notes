@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08ebc2ee-62c2-42bb-8c3d-a5147a4d40c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/share/bricklin-1978-visicalc-paper.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/share/nos_mp4_2017_01_23_SCAHC631P_shd.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/share/p253-porter.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/compositing/PorterDuffCompositing.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/compositing/PorterDuffCompositing.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +16,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
+            <state relative-caret-position="108">
               <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
@@ -28,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/src/混合模式.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SECOND">
-              <first_editor relative-caret-position="3480">
+              <first_editor relative-caret-position="3915">
                 <caret line="145" selection-start-line="145" selection-end-line="145" />
               </first_editor>
               <second_editor />
@@ -40,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/src/bsdiff.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="120">
+              <first_editor relative-caret-position="135">
                 <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
               </first_editor>
               <second_editor />
@@ -52,8 +50,8 @@
         <entry file="file://$PROJECT_DIR$/src/compositing/PorterDuffCompositing.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="216">
-                <caret line="309" selection-start-line="309" selection-end-line="309" />
+              <first_editor>
+                <caret line="285" column="138" lean-forward="true" selection-start-line="285" selection-start-column="138" selection-end-line="285" selection-end-column="138" />
               </first_editor>
               <second_editor />
             </state>
@@ -75,10 +73,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="67" />
-    <option name="y" value="27" />
-    <option name="width" value="512" />
-    <option name="height" value="219" />
+    <option name="x" value="-1928" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -121,8 +119,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1619252949751" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/meatfighter_src20071609/meatfighter" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1619281895427" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -175,16 +173,19 @@
       <workItem from="1618494688877" duration="608000" />
       <workItem from="1619166930937" duration="13277000" />
       <workItem from="1619252842401" duration="703000" />
+      <workItem from="1619255132579" duration="2931000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43297000" />
+    <option name="totallyTimeSpent" value="46228000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989224" visible="true" weight="0.2268954" />
+      <window_info id="Learn" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989224" weight="0.22921109" />
       <window_info id="Structure" order="1" sideWeight="0.5010776" side_tool="true" weight="0.26065302" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -256,7 +257,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
+        <state relative-caret-position="108">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
@@ -264,7 +265,7 @@
     <entry file="file://$PROJECT_DIR$/src/混合模式.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SECOND">
-          <first_editor relative-caret-position="3480">
+          <first_editor relative-caret-position="3915">
             <caret line="145" selection-start-line="145" selection-end-line="145" />
           </first_editor>
           <second_editor />
@@ -274,7 +275,7 @@
     <entry file="file://$PROJECT_DIR$/src/bsdiff.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="120">
+          <first_editor relative-caret-position="135">
             <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
           </first_editor>
           <second_editor />
@@ -284,8 +285,8 @@
     <entry file="file://$PROJECT_DIR$/src/compositing/PorterDuffCompositing.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="216">
-            <caret line="309" selection-start-line="309" selection-end-line="309" />
+          <first_editor>
+            <caret line="285" column="138" lean-forward="true" selection-start-line="285" selection-start-column="138" selection-end-line="285" selection-end-column="138" />
           </first_editor>
           <second_editor />
         </state>

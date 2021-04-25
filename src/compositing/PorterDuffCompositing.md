@@ -3,12 +3,12 @@
 Most computer graphics pictures have been computed all at once, so that the rendering program takes care of all
 computations relating to the overlap of objects. 
 
-大多数计算机图形图片都同时计算，以便渲染程序处理与对象重叠相关的所有计算。
+大多数计算机图形图片都一次计算所有的，以便渲染程序处理与对象重叠相关的所有计算。
 
 There are several applications, however, where elements must be rendered separately, relying on eompositing techniques 
 for the anti-aliased accumulation of the full image. 
 
-但是，有几个应用程序必须单独渲染元素，依靠假设技术(eompositing techniques) 为反别名积累的完整图片。
+但是，有几个应用程序, 必须单独渲染元素，依靠假设技术(eompositing techniques) 为反别名积累的完整图片。
 
 This paper presents the case for four-channel pictures, demonstrating that a matte component can be computed similarly to the color channels. 
 

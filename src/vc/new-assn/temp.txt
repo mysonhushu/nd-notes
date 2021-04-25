@@ -1,0 +1,6 @@
+wget https://www.ics.uci.edu/~majumder/VC/new-assn/211HW3.zip
+wget https://www.ics.uci.edu/~majumder/VC/new-assn/Assignment1.pdf
+wget https://www.ics.uci.edu/~majumder/VC/new-assn/Assignment2.pdf
+wget https://www.ics.uci.edu/~majumder/VC/new-assn/Assignment3.pdf
+wget https://www.ics.uci.edu/~majumder/VC/new-assn/midterm-practice-key.pdf
+wget https://www.ics.uci.edu/~majumder/VC/new-assn/midterm-practice.pdf
